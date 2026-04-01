@@ -1,16 +1,3 @@
-Below is a **complete `README.md`** you can place in your main project folder **`Ai_&_Ds_Project`**.
-It explains **both projects, how they work, project structure, installation, and how to run them**.
-
-You can create a file named:
-
-```
-README.md
-```
-
-in your **main project folder** and paste the content below.
-
----
-
 # AI & Data Science Projects
 
 ### Smart Agriculture & Smart City Traffic Forecasting
